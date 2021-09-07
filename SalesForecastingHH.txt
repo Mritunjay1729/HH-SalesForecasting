@@ -1,0 +1,8 @@
+Analysis
+1.CDCW is generating the most revenue, with SSGB and SSBB following it.
+2. Among councellors, Manish has contributed most (approx 5.1M) followed by Akansha(5.0M)
+and Ankit(4.1M)
+3.The forecast shows a linearly increasing trend, diverging within bounds of 80 lakh(approx).
+4. The forecast shows that the demand for SSGB courses will be on the rise and generate greater
+   revenue in the months to come, while in comparison, CDCW, SSBB and GST show stagnated growth.
+5. The peak months for the many of the courses are March, May, October(forecast) and December.
